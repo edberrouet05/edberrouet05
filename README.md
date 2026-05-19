@@ -26,9 +26,17 @@ Fluent in French and English.
 
 ## 🚀 Recent projects
 
+### [CourtEdge](https://github.com/edberrouet05-rgb/CourtEdge) · Personal project
+
+An NBA playoff predictor powered by XGBoost and 18 engineered features including offensive/defensive ratings, pace, travel distance, rest days, and real-time injury adjustments. FastAPI backend serving live predictions, with a Next.js 15 + TypeScript frontend.
+
+`Python` `FastAPI` `XGBoost` `scikit-learn` `Next.js` `TypeScript` `nba_api` `ESPN API`
+
+---
+
 ### [PairUp](https://github.com/JasonRaza/PairUp) · Hackathon · 24h &nbsp; 🏆 Best Backboard.io Implementation — JACHacks 2026
 
-A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights.I worked on the backend of a team of 4, seed data generation, real-time features (live match screen & messaging), Backboard.io integration, and some frontend work.
+A Tinder-style study partner matching app built in 24 hours at JACHacks. Students swipe through profiles, match based on shared courses and study habits, and get AI-powered compatibility insights. I worked on the backend of a team of 4, seed data generation, real-time features (live match screen & messaging), Backboard.io integration, and some frontend work.
 
 `Next.js` `Supabase` `Gemini AI` `Backboard.io`
 
@@ -42,13 +50,6 @@ A student productivity app built around a virtual creature that grows as you com
 
 ---
 
-### [Mini Moodle](https://github.com/edberrouet05/Moodle) · TCH057 · Team project
-
-A lightweight Android replica of Moodle's core features such as course listings, assignments, and student views. Communicates with a JSON server backend to fetch and persist data, mimicking a real client-server architecture.
-
-`Android Studio` `Java` `JSON Server` `SQLite`
-
----
 
 ## Tech stack
 
@@ -58,15 +59,21 @@ A lightweight Android replica of Moodle's core features such as course listings,
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Backend & Database**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**AI**
+**AI / ML**
 
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=flat&logo=google&logoColor=white)
 
 **Auth & Deployment**
@@ -76,9 +83,11 @@ A lightweight Android replica of Moodle's core features such as course listings,
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
