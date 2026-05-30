@@ -28,9 +28,9 @@ Bilingue Français et Anglais.
 
 ### [CourtEdge](https://github.com/edberrouet05-rgb/CourtEdge) · Projet personnel
 
-Un prédicteur de playoffs NBA propulsé par XGBoost et 18 features engineerées incluant les ratings offensifs/défensifs, le rythme de jeu, la distance de déplacement, les jours de repos et les ajustements de blessures en temps réel. Backend FastAPI servant des prédictions en direct, avec un frontend Next.js 15 + TypeScript.
+Un prédicteur multi-sport couvrant les playoffs NBA et la saison régulière MLB. Le modèle NBA utilise XGBoost avec 30+ features engineerées comme les ratings offensifs/défensifs, rythme de jeu, distance de déplacement, jours de repos et ajustements de blessures en direct. Le modèle MLB utilise la Régression Logistique avec des splits ERA partant/bullpen sur 24 features de lancer et de frappe. Backend FastAPI alimenté en temps réel par la NBA Stats API et la MLB Stats API, avec un frontend Next.js 15 + TypeScript incluant des graphiques de probabilité de victoire, des brackets de série et un historique des prédictions.
 
-`Python` `FastAPI` `XGBoost` `scikit-learn` `Next.js` `TypeScript` `nba_api` `ESPN API`
+`Python` `FastAPI` `XGBoost` `scikit-learn` `Next.js` `TypeScript` `nba_api` `MLB Stats API` `ESPN API`
 
 ---
 
@@ -49,7 +49,6 @@ Une application de gestion de tâches gamifiée autour d'une créature virtuelle
 `Next.js` `React` `Android (Java)`
 
 ---
-
 
 ## Stack technique
 
