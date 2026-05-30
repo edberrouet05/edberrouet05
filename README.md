@@ -28,9 +28,9 @@ Fluent in French and English.
 
 ### [CourtEdge](https://github.com/edberrouet05-rgb/CourtEdge) · Personal project
 
-An NBA playoff predictor powered by XGBoost and 18 engineered features including offensive/defensive ratings, pace, travel distance, rest days, and real-time injury adjustments. FastAPI backend serving live predictions, with a Next.js 15 + TypeScript frontend.
+A multi-sport predictor covering NBA playoffs and MLB regular season. NBA model uses XGBoost with 30+ engineered features — off/def ratings, pace, travel distance, rest days, and live injury adjustments. MLB model uses Logistic Regression with starter/bullpen ERA splits across 24 pitching and hitting features. FastAPI backend pulling real-time data from the NBA Stats API and MLB Stats API, with a Next.js 15 + TypeScript frontend featuring win probability charts, series brackets, and historical prediction logs.
 
-`Python` `FastAPI` `XGBoost` `scikit-learn` `Next.js` `TypeScript` `nba_api` `ESPN API`
+`Python` `FastAPI` `XGBoost` `scikit-learn` `Next.js` `TypeScript` `nba_api` `MLB Stats API` `ESPN API`
 
 ---
 
@@ -49,7 +49,6 @@ A student productivity app built around a virtual creature that grows as you com
 `Next.js` `React` `Android (Java)`
 
 ---
-
 
 ## Tech stack
 
